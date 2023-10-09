@@ -5,7 +5,7 @@ En el siguiente [video](https://youtu.be/htxophI8HZg?si=b1UvPM8ICRxFmWME) se enc
 
 Para experimentar con el código puedes usar este [notebook](https://colab.research.google.com/drive/1rSPz2iE0PHFtASW03CG44rg6o9KCqDcp?usp=sharing) de Google Colab, recuerda hacer una copia para ti mismo.
 
-Cualquier dudas, comentario, colaboraciones o sugerencias, contactar a:
+Cualquier duda, comentario, colaboraciones o sugerencias, contactar a:
 
 - Óscar Alvarado      oscaralvarado@ciencias.unam.mx
 - Octavio Valenzuela  octavio@astro.unam.mx
